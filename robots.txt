@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /WebGame/
+Disallow:/socialLinkQQ/
+Disallow:/howToSendAnEmail/
+Disallow:/about/updates/
+Disallow:/about/experience/
+Disallow:/collectingBox/
+
+Sitemap: https://jonnys.top/sitemap.xml
